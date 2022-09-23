@@ -1,0 +1,63 @@
+.li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border: solid 1px #b6c3ca;
+  min-width: 300px;
+  border-radius: 10px;
+  padding: 18px;
+  margin: 7px;
+}
+.color1 {
+  background-color: #f59e0b;
+}
+.color2 {
+  background-color: #10b981;
+}
+.color3 {
+  background-color: #64748b;
+}
+.color4 {
+  background-color: #0ea5e9;
+}
+.color5 {
+  background-color: #b91c1c;
+}
+.color6 {
+  background-color: #14b8a6;
+}
+.color7 {
+  background-color: #f97316;
+}
+.first {
+  width: 60px;
+  height: 60px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border-radius: 60px;
+  padding: 11px;
+  text-align: center;
+  margin: 10px;
+}
+.star-image {
+  width: 100px;
+  margin: 9px;
+}
+.web-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin: 9px;
+}
+.delete {
+  width: 50px;
+  margin: 10px;
+}
+.btn-delete {
+  outline: none;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
